@@ -11,10 +11,14 @@
     + react
     + webpack
     + babel
+    + react-router
+    + npm install -S history
+    + webpack-dev-server
+    
 * BS
     + [Start Bootstrap](https://startbootstrap.com)
     + [Bootstrap CDN Bootswatch](https://www.bootstrapcdn.com/bootswatch/)
-    
+
 
 
 ## Instructions to run
